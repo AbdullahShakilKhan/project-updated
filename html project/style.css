@@ -1,0 +1,70 @@
+h1 {
+    text-align: center;
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+h2 {
+   
+    color: #007bff;
+}
+
+
+nav {
+    text-align: center;
+    
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+p, ul{
+    text-align: justify;
+}
+
+.head2 {
+    text-align: center;
+    text-decoration: underline;
+}
+.image {
+    text-align: center;
+}
+
+
+.iframe{
+    text-align: center;
+}
+
+.heading{
+    text-decoration: underline;
+}
+
+
+td a{
+   text-decoration: none;
+   
+    
+}
+hr {
+    border: 1px solid #ccc;
+    width: 50%;
+}
+
+
+
+.para{
+    text-align: center;
+    
+}
+
+.des{
+    text-align:     center;
+}
+
+footer p{
+    text-align: center;
+}
+
